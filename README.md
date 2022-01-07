@@ -1,5 +1,6 @@
-# eufy_vacuum_g10
-Integration with Home Assistant for the Eufy RoboVac G10
+# Eufy Vacuum G10 Integration with Home Assistant
+
+# Installation
 
 Add the following to your configuration.yaml:
 
