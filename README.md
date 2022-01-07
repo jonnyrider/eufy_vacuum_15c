@@ -12,6 +12,8 @@ eufy_vacuum_g10:
     id: <id>
     type: T2118    
    ``` 
+ To get the access_token and id, download the Eufy app here: https://www.dropbox.com/s/bcwy6iqchydgexc/EufyHome_2.4.0_vevs.apk.zip?dl=0 and go to the vacuum settings where they are shown.
+   
  Copy the contents of the eufy_robovac_g10 folder to custom_components/eufy_vacuum_g10 in your home assistant configuration directory. 
  
  Restart Home Assistant.
